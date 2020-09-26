@@ -31,26 +31,27 @@ h1 {
     font-size: 2em;
     color: white;
     text-align: center;
+    clear: both;
 }
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+    float: right;
 }
 
 .birthdayWish {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0;
     padding-top: 16px;
     padding-bottom: 16px;
     background-color: LightBlue;
+    overflow:auto;
+    
 }
 
 .mainImage {
     margin: 0;
-    margin-top: 0;
-    margin-bottom: 0;
     padding-top: 16px;
     padding-bottom: 16px;
     background-color: powderblue;
@@ -58,10 +59,16 @@ h1 {
 #wish {
     color: navy;
     text-align: center;
+    height: 100%;
+    padding: 20px;
+    text-align: center;
+    position:relative;
+    top: 100px;
 }
 .row div{
     cursor:pointer;
     display:block;
+    
 
 }
 .row div:hover{
