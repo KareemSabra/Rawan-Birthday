@@ -24,6 +24,14 @@ h1 {
     color: white;
     text-align: center;
 }
+.ButtonsBox2 {
+    width: 100%;
+    margin: 0;
+    background-color: #87CEFA;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+}
 .center {
     display: block;
     margin-left: auto;
@@ -47,8 +55,15 @@ h1 {
     padding-bottom: 16px;
     background-color: powderblue;
 }
-
 #wish {
     color: navy;
     text-align: center;
+}
+.row div{
+    cursor:pointer;
+    display:block;
+
+}
+.row div:hover{
+    background-color: darkblue;
 }
