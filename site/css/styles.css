@@ -3,10 +3,6 @@
     margin: 0;
 }
 
-
-body {
-}
-
 h1 {
     text-align: center;
     color: white;
@@ -17,9 +13,9 @@ h1 {
     padding-top: 30px;
 }
 .ButtonsBox {
-    width :100%;
-    margin : 0;
-    background-color: #B0C4DE;
+    width: 100%;
+    margin: 0;
+    background-color: #87CEFA;
     font-size: 2em;
     color: white;
     text-align: center;
@@ -27,7 +23,7 @@ h1 {
 .ButtonsBox2 {
     width: 100%;
     margin: 0;
-    background-color: #87CEFA;
+    background-color:  #B0C4DE;
     font-size: 2em;
     color: white;
     text-align: center;
@@ -44,10 +40,9 @@ h1 {
 .birthdayWish {
     margin: 0;
     padding-top: 16px;
-    padding-bottom: 16px;
     background-color: LightBlue;
-    overflow:auto;
-    
+    height: 1050px;
+
 }
 
 .mainImage {
@@ -56,20 +51,18 @@ h1 {
     padding-bottom: 16px;
     background-color: powderblue;
 }
+
 #wish {
+    margin-top: 20%;
     color: navy;
     text-align: center;
     height: 100%;
-    padding: 20px;
     text-align: center;
-    position:relative;
-    top: 100px;
+    padding: 20px;
 }
 .row div{
     cursor:pointer;
     display:block;
-    
-
 }
 .row div:hover{
     background-color: darkblue;
