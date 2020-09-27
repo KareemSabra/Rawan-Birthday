@@ -21,6 +21,8 @@ h1 {
     margin-bottom: 0;
     padding: 20px;
     padding-top: 20px;
+    text-shadow:3px 2px lightblue; 
+    font-family: "Times New Roman", Times, serif;
 }
 .ButtonsBox {
     width: 100%;
@@ -52,7 +54,7 @@ h1 {
     padding-top: 16px;
     background-color: LightBlue;
     height: 1050px;
-
+    font-family: "Times New Roman", Times, serif;
 }
 
 .mainImage {
@@ -81,6 +83,17 @@ h1 {
 .tabcontent {
     display: none;
 }
+#Kareem {
+    background-color: lightblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+    padding-top: 20px;
+}
+#w1 {
+    color: navy;
+    font-family: "Times New Roman", Times, serif;
+}
 #Nouran {
     background-color: lightblue;
     margin-top: 0;
@@ -88,17 +101,31 @@ h1 {
     padding: 20px;
     padding-top: 20px;
 }
-
-#Manar {
+#w2 {
+    color: navy;
+    font-family: "Times New Roman", Times, serif;
+}
+#Haidi {
     background-color: lightblue;
     margin-top: 0;
     margin-bottom: 0;
     padding: 20px;
     padding-top: 20px;
 }
-
-.w2 {
+#w3 {
     color: navy;
+    font-family: "Times New Roman", Times, serif;
+}
+#Seif {
+    background-color: lightblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+    padding-top: 20px;
+}
+#w4 {
+    color: navy;
+    font-family: "Times New Roman", Times, serif;
 }
 #Manar {
     background-color: lightblue;
@@ -109,6 +136,40 @@ h1 {
 }
 #w5 {
     color: navy;
+    font-family: "Times New Roman", Times, serif;
+}
+#Atheer {
+    background-color: lightblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+    padding-top: 20px;
+}
+#w6 {
+    color: navy;
+    font-family: "Times New Roman", Times, serif;
+}
+#Habiba {
+    background-color: lightblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+    padding-top: 20px;
+}
+#w7 {
+    color: navy;
+    font-family: "Times New Roman", Times, serif;
+}
+#All {
+    background-color: lightblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+    padding-top: 20px;
+}
+#w8 {
+    color: navy;
+    font-family: "Times New Roman", Times, serif;
 }
 .portrait:hover {
     width: 400px;
