@@ -67,3 +67,7 @@ h1 {
 .row div:hover{
     background-color: darkblue;
 }
+
+.tabcontent {
+    display: none;
+}
