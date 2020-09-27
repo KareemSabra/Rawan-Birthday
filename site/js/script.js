@@ -22,3 +22,7 @@ function openPerson(evt, personName) {
     x.style.display = "none";
   
   }
+function goHome(){
+location.reload();
+return false;
+}
