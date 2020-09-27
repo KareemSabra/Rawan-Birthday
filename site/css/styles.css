@@ -81,7 +81,6 @@ h1 {
 .tabcontent {
     display: none;
 }
-
 #Nouran {
     background-color: lightblue;
     margin-top: 0;
@@ -91,4 +90,22 @@ h1 {
 }
 #w2 {
     color: navy;
+}
+#Manar {
+    background-color: lightblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+    padding-top: 20px;
+}
+#w5 {
+    color: navy;
+}
+.portrait:hover {
+    width: 400px;
+    height: 700px;
+  }
+.landscape:hover {
+    width: 700px;
+    height: 300px;
 }
